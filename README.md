@@ -1,6 +1,7 @@
-## 📌 Project Overview
+## 📌 Project Overview :
 
-This project is a beginner-friendly implementation of **Linear Regression from scratch** using only Python and NumPy. It demonstrates how machine learning models work under the hood without using any high-level libraries like scikit-learn.
+This project is a beginner-friendly implementation of **Linear Regression from scratch** using only Python and NumPy. 
+It demonstrates how machine learning models work under the hood without using any high-level libraries like scikit-learn.
 
 🧠 **Goal**: Predict house prices based on area (in square feet).
 
